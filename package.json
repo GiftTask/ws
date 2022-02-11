@@ -20,7 +20,6 @@
     "import": "./wrapper.mjs",
     "require": "./index.js"
   },
-  "browser": "browser.js",
   "engines": {
     "node": ">=10.0.0"
   },
